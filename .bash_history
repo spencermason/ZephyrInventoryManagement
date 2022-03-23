@@ -54,3 +54,15 @@ git commit -m "first commit"
 git config --global user.email "spencejmason@gmail.com"
 git config --global user.name "Spencer Mason"
 git commit -m "first commit"
+git add -A
+git commit -m "first commit"
+ls
+git add .gitignore
+git
+git init
+ls
+git commit -m "first commit"
+git add -a
+git reset
+git commit -m "first commit"
+ls
